@@ -2,8 +2,12 @@ setup.py
 PySParkTools.egg-info/PKG-INFO
 PySParkTools.egg-info/SOURCES.txt
 PySParkTools.egg-info/dependency_links.txt
+PySParkTools.egg-info/requires.txt
 PySParkTools.egg-info/top_level.txt
 PySparkTools/__init__.py
+PySparkTools/Manipulation/DataManipulation.py
+PySparkTools/Manipulation/__init__.py
 PySparkTools/Visualization/PyPlots.py
 PySparkTools/Visualization/__init__.py
-test/test.py
+test/test1.py
+test/test2.py

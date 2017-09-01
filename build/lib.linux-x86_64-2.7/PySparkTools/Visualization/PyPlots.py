@@ -7,6 +7,7 @@ from sklearn.metrics import confusion_matrix
 def plt_confusion_matrix(y_true, y_pred, class_names ):
     """
     This function called plot_confusion_matrix from http://scikit-learn.org.
+    The Copyright belongs to scikit-learn.org.
     """
     cnf_matrix = confusion_matrix(y_true, y_pred, class_names)
 
