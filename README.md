@@ -14,3 +14,10 @@ cd PySparkTools
 pip install -r requirements.txt 
 python setup.py install
 ```
+
+- test 
+
+```{bash}
+cd PySparkTools/test
+python test1.py
+```
